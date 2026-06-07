@@ -1,6 +1,5 @@
 <!-- - 👋 Hi, I’m @alanthomasjohns -->
-- 🌱 I’m currently learning Django Rest API
-- 👀 I’m currently working on a Social Media Project using Django
+- 👀 Becoming a dev master
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me alanthomasjohns99@gmail.com
 
